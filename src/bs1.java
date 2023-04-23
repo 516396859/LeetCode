@@ -14,6 +14,9 @@ public class bs1 {
             }
         }
 
+
+
+
         Iterator<Integer> it = map.keySet().iterator();
         while (it.hasNext()){
             Integer key = it.next();
